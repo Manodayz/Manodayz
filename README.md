@@ -3,3 +3,6 @@
 - I’m currently learning Programming at University of North Carolina - Charlotte
 - I’m looking to collaborate on various projects!
 - You can reach me at Jbrewer1419@gmail.com
+- Certified in Responsive Web Design: https://www.freecodecamp.org/certification/manodayz/responsive-web-design
+- Certified in Javascript Algorithms and Data Structures: https://www.freecodecamp.org/certification/manodayz/javascript-algorithms-and-data-structures-v8
+- My Linkedin: https://www.linkedin.com/in/jesse-brewer-8b0024329/
